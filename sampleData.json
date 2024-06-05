@@ -1,75 +1,78 @@
 {
-    "friends":[
 
-        {
-  
-           "firstname":"Sachin",
-  
-           "lastname":"Funde",
-  
-           "id":"sachin",
-  
-           "Age":20
-  
-        },
-  
-        {
-  
-           "firstname":"Anirudha",
-  
-           "lastname":"Patil",
-  
-           "id":"anirudha",
-  
-           "age":20
-  
-        },
-  
-        {
-  
-           "firstname":"Mahesh",
-  
-           "lastname":"Bhandigare",
-  
-           "id":"mahesh",
-  
-           "age":20
-  
-        }
-  
-     ],
-  
-     "posts":[
-  
-        {
-  
-           "id":1,
-  
-           "title":"json-server",
-  
-           "author":"typicode"
-  
-        }
-  
-     ],
-  
-     "comments":[
-  
-        {
-  
-           "id":1,
-  
-           "body":"some comment",
-  
-           "postId":1
-  
-        }
-  
-     ],
-  
-     "profile":{
-  
-        "name":"typicode"
-  
+  "friends":[
+
+     {
+
+        "firstname":"Sachin",
+
+        "lastname":"Funde",
+
+        "id":"sachin",
+
+        "Age":20
+
+     },
+
+     {
+
+        "firstname":"Anirudha",
+
+        "lastname":"Patil",
+
+        "id":"anirudha",
+
+        "age":20
+
+     },
+
+     {
+
+        "firstname":"Mahesh",
+
+        "lastname":"Bhandigare",
+
+        "id":"mahesh",
+
+        "age":20
+
      }
+
+  ],
+
+  "posts":[
+
+     {
+
+        "id":1,
+
+        "title":"json-server",
+
+        "author":"typicode"
+
+     }
+
+  ],
+
+  "comments":[
+
+     {
+
+        "id":1,
+
+        "body":"some comment",
+
+        "postId":1
+
+     }
+
+  ],
+
+  "profile":{
+
+     "name":"typicode"
+
+  }
+
 }
+
